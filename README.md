@@ -7,7 +7,7 @@ Sistem manajemen dokumen yang dirancang untuk mendukung penyimpanan data secara 
 - Struktur Folder Tree untuk file produk, laporan harian, transkrip, dll.
 - Google Sheet Tracker untuk memantau status dokumen, riwayat pembaruan, dan log pengecekan.
 - Terintegrasi dengan Google Drive untuk akses file secara real-time.
-- Cocok untuk alur kerja bisnis dan manajemen data pada penyimpanan lokal atau pada jarak jauh.
+- Cocok untuk alur kerja bisnis dan manajemen data pada penyimpanan lokal atau pada Cloud.
 
 ## 📖 Pratinjau
 
