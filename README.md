@@ -1,6 +1,6 @@
 # 📂 Sistem Manajemen & Pelacakan Dokumen
 
-Sistem manajemen dokumen yang dirancang untuk mendukung penyimpanan data secara terstruktur, mendukung kemudahan akses, dan pengarsipan data secara optimal. Dibuat menggunakan Google Drive dan Google Sheets untuk kontrol dokumen berbasis cloud yang mudah diakses dan efisien.
+Sistem manajemen dokumen yang dirancang untuk mendukung penyimpanan data secara terstruktur, mendukung kemudahan akses, dan pengarsipan data yang sistematis. Dibuat menggunakan Google Drive dan Google Sheets untuk kontrol dokumen berbasis cloud yang mudah diakses dan efisien.
 
 ## 🔧 Fitur Utama
 
